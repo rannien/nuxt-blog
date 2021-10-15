@@ -1,2 +1,2 @@
-# nuxt-blog
+# NuxtJS Blog
 NuxtJS Demo Project
