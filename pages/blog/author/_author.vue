@@ -30,7 +30,7 @@ export default {
       .without('body')
       .sortBy('createdAt', 'asc')
       .fetch()
-
+console.log(articles);
     return {
       articles,
     }

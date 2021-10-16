@@ -46,5 +46,7 @@ export default {
   build: {
   },
 
-  nestedProperties: ['author.name']
+  content: {
+    nestedProperties: ['author.name']
+  }
 }

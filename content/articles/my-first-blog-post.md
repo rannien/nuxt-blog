@@ -6,7 +6,7 @@ alt: my first blog post
 author:
   name: Csabi
   bio: All about Csabi
-  image: https://images.unsplash.com/photo-1633794036121-e278381835a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzNDM4NTE0Ng&ixlib=rb-1.2.1&q=80&w=1080
+  image: https://picsum.photos/150/150
 ---
 
 # My first blog post
