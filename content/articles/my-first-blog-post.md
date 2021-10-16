@@ -39,3 +39,10 @@ This is some more info
     This is a vue component inside markdown using slots
   </template>
 </info-box>
+
+```javascript
+export default {
+  nuxt: 'is the best'
+}
+```
+
