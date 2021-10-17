@@ -5,6 +5,7 @@
       type="search"
       autocomplete="off"
       placeholder="Search Articles"
+      class="form-input px-4 py-3 rounded-xl border-green-300 border-2"
     />
     <ul v-if="articles.length">
       <li v-for="article of articles" :key="article.slug">
