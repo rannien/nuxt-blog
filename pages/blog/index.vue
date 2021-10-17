@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>Blog Posts</h1>
+    <h1 class="text-4xl tracking-tight font-bold text-gray-900 sm:text-5xl">From the blog</h1>
+
     <AppSearchInput />
 
     <ul>
