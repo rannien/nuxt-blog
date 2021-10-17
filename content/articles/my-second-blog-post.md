@@ -1,7 +1,7 @@
 ---
 title: Second Blog Post
 description: Adding more content to the blog
-img: second-blog-post.jpg
+img: /blog/second-blog-post.jpg
 alt: second blog post
 author:
   name: Csabi
