@@ -15,7 +15,7 @@
 
     <nuxt-content :document="article" />
 
-    <author :author="article.author" />
+    <author-box :author="article.author" />
 
     <prev-next :prev="prev" :next="next" />
   </article>
