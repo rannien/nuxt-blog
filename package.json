@@ -23,7 +23,7 @@
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.17.0",
+    "@babel/eslint-parser": "^7.18.2",
     "@commitlint/cli": "^16.2.3",
     "@commitlint/config-conventional": "^16.2.1",
     "@nuxt/types": "^2.15.7",
